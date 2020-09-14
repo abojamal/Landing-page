@@ -1,13 +1,13 @@
-# Landing Page Project
+# Landing Page Project done by Shafik Al Sharif
 
-## Table of Contents
+## How to Open in browser using windows
 
-* [Instructions](#instructions)
+-right click on index.html then choose **open with** and choose your preffered browser
 
-## Instructions
+## notes:
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+In this project ,
+-i used js es6 **for of** all the time
+-improved performaance while building the NAV bar by writing to fragment
+-I also preffered using **Intersection Observer API** instead of the classic Element.getBoundingClientRect()
+-also, I changed NAV bar display to flex to have better view on mobile phones
